@@ -1,0 +1,51 @@
+#header{
+    @include flex(row, nowrap, space-between, center, 0);
+    position: fixed;
+    width: 100vw;
+    background-color: $white-op80;
+    padding: $space-8 $space-64;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    .header__figure{
+        .figure__img{
+            width: 6rem;
+        }
+    }
+    .header__navBar{
+        .navBar__list{
+            @include flex(row, nowrap, space-between, center, $space-64);
+            list-style: none;
+            .navBarList__item{
+                .item__link{
+                    font-size: $font-18;
+                    color: $navyBlue;
+                    transition: .3s;
+                }
+                .item__link:hover{
+                    color: $deepSkyBlue;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 768px){
+    #header{
+        @include flex(column, nowrap, space-between, center, $space-16);
+        padding: $space-16 $space-64;
+        .header__figure{
+            .figure__img{
+                width: 6rem;
+                transition: .3s;
+            }
+        }
+        .header__navBar{
+            .navBar__list{
+                .navBarList__item{
+                    .item__link{
+                        font-size: $font-16;
+                    }
+                }
+            }
+        }
+    } 
+}

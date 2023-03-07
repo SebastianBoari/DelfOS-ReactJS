@@ -1,0 +1,38 @@
+#contactForm{
+    @include flex(column, nowrap, space-between, center, $space-32);
+    .div{
+        padding: $space-8 $space-16;
+        min-width: 28rem;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        input, textarea{
+            background-color: rgba(0, 0, 0, 0);
+            font-family: 'Inter', sans-serif;
+            color: $navyBlue;
+            font-size: $font-14;
+            border: none;
+            outline: none;
+        }
+        input::placeholder, textarea::placeholder{
+            color: $gray;
+        }
+        input:focus, textarea:focus{
+            border: none;
+            outline: none;
+        }
+
+    }
+
+    #submitContainter{
+        cursor: pointer;
+        min-width: 120px;
+        text-align: center;
+        align-self: end;
+        #inputSubmit{
+            cursor: pointer;
+            transition: all .3s;
+        }
+        #inputSubmit:hover{
+            color: $deepSkyBlue;
+        }
+    }
+}

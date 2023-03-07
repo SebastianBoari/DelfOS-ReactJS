@@ -1,0 +1,221 @@
+{
+    "products": [
+        {
+            "id": 1,
+    
+            "title": "DelfOS 13 Pro",
+    
+            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+    
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+            
+            "feature-title-1": "Diseño actualizado",
+            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+    
+            "feature-title-2": "Soporte táctil mejorado",
+            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+    
+            "feature-title-3": "Integración de Microsoft Teams",
+            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+    
+            "feature-title-4": "Mejoras en el rendimiento",
+            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+    
+            "feature-title-5": "Nueva Microsoft Store",
+            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+    
+            "feature-title-6": "Mejoras en la multitarea",
+            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+    
+            "feature-title-7": "Modo oscuro mejorado",
+            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+    
+            "feature-title-8": "Seguridad mejorada",
+            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+    
+            "feature-title-9": "Continuidad de la experiencia",
+            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+        },
+        {
+        "id": 2,
+
+        "title": "DelfOS 13 Pro",
+
+        "image": "https://img.icons8.com/fluency/512/windows-11.png",
+
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+
+        "feature-title-1": "Diseño actualizado",
+        "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+
+        "feature-title-2": "Soporte táctil mejorado",
+        "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+
+        "feature-title-3": "Integración de Microsoft Teams",
+        "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+
+        "feature-title-4": "Mejoras en el rendimiento",
+        "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+
+        "feature-title-5": "Nueva Microsoft Store",
+        "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+
+        "feature-title-6": "Mejoras en la multitarea",
+        "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+
+        "feature-title-7": "Modo oscuro mejorado",
+        "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+
+        "feature-title-8": "Seguridad mejorada",
+        "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+
+        "feature-title-9": "Continuidad de la experiencia",
+        "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+        },
+        {
+            "id": 3,
+    
+            "title": "DelfOS 13 Pro",
+    
+            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+    
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+    
+            "feature-title-1": "Diseño actualizado",
+            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+    
+            "feature-title-2": "Soporte táctil mejorado",
+            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+    
+            "feature-title-3": "Integración de Microsoft Teams",
+            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+    
+            "feature-title-4": "Mejoras en el rendimiento",
+            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+    
+            "feature-title-5": "Nueva Microsoft Store",
+            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+    
+            "feature-title-6": "Mejoras en la multitarea",
+            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+    
+            "feature-title-7": "Modo oscuro mejorado",
+            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+    
+            "feature-title-8": "Seguridad mejorada",
+            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+    
+            "feature-title-9": "Continuidad de la experiencia",
+            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+        },
+        {
+            "id": 4,
+    
+            "title": "DelfOS 13 Pro",
+    
+            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+    
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+    
+            "feature-title-1": "Diseño actualizado",
+            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+    
+            "feature-title-2": "Soporte táctil mejorado",
+            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+    
+            "feature-title-3": "Integración de Microsoft Teams",
+            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+    
+            "feature-title-4": "Mejoras en el rendimiento",
+            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+    
+            "feature-title-5": "Nueva Microsoft Store",
+            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+    
+            "feature-title-6": "Mejoras en la multitarea",
+            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+    
+            "feature-title-7": "Modo oscuro mejorado",
+            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+    
+            "feature-title-8": "Seguridad mejorada",
+            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+    
+            "feature-title-9": "Continuidad de la experiencia",
+            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+        },
+        {
+            "id": 5,
+    
+            "title": "DelfOS 13 Pro",
+    
+            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+    
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+    
+            "feature-title-1": "Diseño actualizado",
+            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+    
+            "feature-title-2": "Soporte táctil mejorado",
+            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+    
+            "feature-title-3": "Integración de Microsoft Teams",
+            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+    
+            "feature-title-4": "Mejoras en el rendimiento",
+            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+    
+            "feature-title-5": "Nueva Microsoft Store",
+            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+    
+            "feature-title-6": "Mejoras en la multitarea",
+            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+    
+            "feature-title-7": "Modo oscuro mejorado",
+            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+    
+            "feature-title-8": "Seguridad mejorada",
+            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+    
+            "feature-title-9": "Continuidad de la experiencia",
+            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+        },
+        {
+            "id": 6,
+    
+            "title": "DelfOS 13 Pro",
+    
+            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+    
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+    
+            "feature-title-1": "Diseño actualizado",
+            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+    
+            "feature-title-2": "Soporte táctil mejorado",
+            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+    
+            "feature-title-3": "Integración de Microsoft Teams",
+            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+    
+            "feature-title-4": "Mejoras en el rendimiento",
+            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+    
+            "feature-title-5": "Nueva Microsoft Store",
+            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+    
+            "feature-title-6": "Mejoras en la multitarea",
+            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+    
+            "feature-title-7": "Modo oscuro mejorado",
+            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+    
+            "feature-title-8": "Seguridad mejorada",
+            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+    
+            "feature-title-9": "Continuidad de la experiencia",
+            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+        }
+    ]
+  }
+  

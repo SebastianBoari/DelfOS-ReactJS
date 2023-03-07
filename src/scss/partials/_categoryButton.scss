@@ -1,0 +1,39 @@
+#categoryButton__container{
+    #categoryButton{
+        cursor: pointer;
+        background-color: $navyBlue;
+        border: none;
+        border-radius: 2px;
+        outline: none;
+        color: $white;
+        font-size: $font-18;
+        padding: $space-8 $space-16;
+        transition: all .3s;
+    }
+    #categoryButton:hover{
+        background-color: $deepSkyBlue;
+    }
+
+    .category__list{
+        @include flex(column, nowrap, space-between, center, $space-8);
+        position: absolute;
+        margin-top: 1rem;
+        margin-left: 0.25rem;
+        padding: $space-16 0;
+        background-color: $deepSkyBlue;
+        border-radius: 4px;
+        list-style: none;
+        transition: all .3s;
+        .list__item{
+            padding: 0 $space-16;
+            a{
+                color: $white;
+                font-size: $font-14;
+                transition: all .3s;
+            }
+            a:hover{
+                color: $navyBlue;
+            }
+        }
+    }
+}
