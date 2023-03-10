@@ -1,0 +1,63 @@
+.card{
+    @include flex(column, nowrap, space-between, center, $space-32);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding: $space-32;
+    max-width: 34rem;
+    background-color: $white-op80;
+    border-radius: 18px 0;
+    .card__header{
+        @include flex(column, nowrap, space-between, center, $space-16);
+        .header__figure{
+            .img{
+                max-width: 14rem;
+                max-height: 9rem;
+            }
+        }
+        .title{
+            font-size: $font-24;
+            font-weight: bolder;
+            color: $deepSkyBlue;
+        }
+    }
+    .card__body{
+        @include flex(column, nowrap, space-between, center, $space-16);
+        .category{
+            font-size: $font-16;
+            color: $navyBlue;
+            font-weight: 400;
+        }
+        .description{
+            font-size: $font-16;
+            color: $navyBlue;
+            font-weight: 400;
+        }
+    }
+    .card__footer{
+        @include flex(row, nowrap, space-between, center, 0);
+        width: 100%;
+        .price{
+            font-size: $font-18;
+            color: $white;
+            font-weight: 400;
+            background-color: $amaranthRed-op80;
+            padding: $space-8 $space-16;
+            border-radius: 4px;
+        }
+        .button{
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            background-color: $navyBlue;
+            border: none;
+            border-radius: 4px;
+            color: $white;
+            font-size: $font-16;
+            font-weight: 600;
+            padding: $space-8 $space-16;
+            transition: all .3s;
+        }
+        .button:hover{
+            background-color: $deepSkyBlue;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        }
+    }
+}

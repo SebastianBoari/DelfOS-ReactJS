@@ -7,6 +7,10 @@
     display: grid;
     place-items: center;
     .contactUs__article{
+        // Animacion
+        opacity: 0;
+        animation: fadeIn 3s forwards;
+
         display: grid;
         grid-template-columns: auto auto;
         gap: $space-64;

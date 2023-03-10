@@ -1,8 +1,9 @@
 #header{
     @include flex(row, nowrap, space-between, center, 0);
     position: fixed;
+    z-index: 999;
     width: 100vw;
-    background-color: $white-op80;
+    background-color: rgba(255, 255, 255, 0.80);
     padding: $space-8 $space-64;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     .header__figure{

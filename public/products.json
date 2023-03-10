@@ -2,220 +2,405 @@
     "products": [
         {
             "id": 1,
+
+            "category": "delfos",
+
+            "price": 145.00,
+
+            "title": "DelfOS 10 Home",
     
-            "title": "DelfOS 13 Pro",
+            "image": "https://i.imgur.com/0snngbX.png",
     
-            "image": "https://img.icons8.com/fluency/512/windows-11.png",
-    
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+            "description": "DelfOS 10 se ha diseñado para ser el sistema operativo definitivo de tu equipo. Con él, podrás disfrutar de una amplia variedad de características integradas que te ayudarán a mejorar tu experiencia de usuario. En primer lugar, contarás con las mejores medidas de seguridad del mercado. Dispondrás de protección antivirus, de firewall y de Internet para que puedas navegar por la red con total tranquilidad. Además, con DelfOS 10 podrás decir adiós a las contraseñas. DelfOS Ohana es una herramienta que te permitirá desbloquear tu equipo de forma rápida, segura y sin necesidad de recordar ninguna contraseña. Podrás digitalizar tu cara o tu huella digital para acceder a tu equipo de una manera más cómoda y eficiente. Pero eso no es todo. DelfOS 10 te proporcionará una serie de características adicionales que te permitirán personalizar al máximo tu experiencia de usuario. Podrás modificar la apariencia de tu escritorio, elegir entre una amplia variedad de temas y colores, y crear accesos directos para las aplicaciones que más utilices.",
             
-            "feature-title-1": "Diseño actualizado",
-            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+            "featureTitle1": "Diseño actualizado",
+            "featureDescription1": "Delfos 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
     
-            "feature-title-2": "Soporte táctil mejorado",
-            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+            "featureTitle2": "Soporte táctil mejorado",
+            "featureDescription2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
     
-            "feature-title-3": "Integración de Microsoft Teams",
-            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+            "featureTitle3": "Integración de Microsoft Teams",
+            "featureDescription3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
     
-            "feature-title-4": "Mejoras en el rendimiento",
-            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+            "featureTitle4": "Mejoras en el rendimiento",
+            "featureDescription4": "Delfos 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
     
-            "feature-title-5": "Nueva Microsoft Store",
-            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+            "featureTitle5": "Nueva Microsoft Store",
+            "featureDescription5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Delfos.",
     
-            "feature-title-6": "Mejoras en la multitarea",
-            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+            "featureTitle6": "Mejoras en la multitarea",
+            "featureDescription6": "Delfos 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
     
-            "feature-title-7": "Modo oscuro mejorado",
-            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+            "featureTitle7": "Modo oscuro mejorado",
+            "featureDescription7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
     
-            "feature-title-8": "Seguridad mejorada",
-            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+            "featureTitle8": "Seguridad mejorada",
+            "featureDescription8": "Delfos 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
     
-            "feature-title-9": "Continuidad de la experiencia",
-            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+            "featureTitle9": "Continuidad de la experiencia",
+            "featureDescription9": "Delfos 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
         },
         {
         "id": 2,
 
-        "title": "DelfOS 13 Pro",
+        "category": "delfos",
 
-        "image": "https://img.icons8.com/fluency/512/windows-11.png",
+        "price": 259.00,
 
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+        "title": "DelfOS 10 Pro",
 
-        "feature-title-1": "Diseño actualizado",
-        "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+        "image": "https://i.imgur.com/I0X0orD.png",
 
-        "feature-title-2": "Soporte táctil mejorado",
-        "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+        "description": "¿Eres un profesional que necesita el sistema operativo más avanzado? Entonces DelfOS 10 Pro es para ti. Esta versión de DelfOS tiene todas las características de la versión Home, pero con algunas características adicionales para que puedas hacer tu trabajo de manera más eficiente. Con DelfOS 10 Pro, podrás disfrutar de la mejor experiencia de usuario para profesionales. Podrás utilizar características avanzadas de seguridad, como ByteLocker, que te permitirán cifrar tus datos y protegerlos de accesos no autorizados. Además, podrás unirte a un dominio y acceder a recursos compartidos de red, para que puedas trabajar con tus compañeros de forma más colaborativa. En definitiva, DelfOS 10 Pro es la elección perfecta para aquellos que buscan una herramienta de trabajo avanzada y fiable.",
 
-        "feature-title-3": "Integración de Microsoft Teams",
-        "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+        "featureTitle1": "Diseño actualizado",
+        "featureDescription1": "Delfos 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
 
-        "feature-title-4": "Mejoras en el rendimiento",
-        "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+        "featureTitle2": "Soporte táctil mejorado",
+        "featureDescription2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
 
-        "feature-title-5": "Nueva Microsoft Store",
-        "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+        "featureTitle3": "Integración de Microsoft Teams",
+        "featureDescription3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
 
-        "feature-title-6": "Mejoras en la multitarea",
-        "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+        "featureTitle4": "Mejoras en el rendimiento",
+        "featureDescription4": "Delfos 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
 
-        "feature-title-7": "Modo oscuro mejorado",
-        "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+        "featureTitle5": "Nueva Microsoft Store",
+        "featureDescription5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Delfos.",
 
-        "feature-title-8": "Seguridad mejorada",
-        "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+        "featureTitle6": "Mejoras en la multitarea",
+        "featureDescription6": "Delfos 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
 
-        "feature-title-9": "Continuidad de la experiencia",
-        "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+        "featureTitle7": "Modo oscuro mejorado",
+        "featureDescription7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+
+        "featureTitle8": "Seguridad mejorada",
+        "featureDescription8": "Delfos 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+
+        "featureTitle9": "Continuidad de la experiencia",
+        "featureDescription9": "Delfos 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
         },
         {
             "id": 3,
     
-            "title": "DelfOS 13 Pro",
+            "category": "delfos",
+
+            "price": 259.00,
     
-            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+            "title": "DelfOS 11 Home",
     
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+            "image": "https://i.imgur.com/6tx1chn.png",
     
-            "feature-title-1": "Diseño actualizado",
-            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+            "description": "DelfOS 11 Home es la elección perfecta para ti. Con una interfaz renovada y características avanzadas, podrás disfrutar de la mejor experiencia de usuario. Una de las principales características de DelfOS 11 Home es su rendimiento mejorado. Podrás disfrutar de una navegación web más rápida gracias a su navegador de última generación, BorderLine. Además, dispondrás de una mayor eficiencia en el uso de recursos, lo que te permitirá trabajar de forma más fluida y sin interrupciones. DelfOS 11 Home también incluye una serie de características avanzadas de seguridad, como ByteLocker, que te permitirán cifrar tus datos y protegerlos de accesos no autorizados. Además, podrás utilizar DelfOS Ohana para desbloquear tu equipo de forma rápida y segura, sin necesidad de recordar ninguna contraseña.",
     
-            "feature-title-2": "Soporte táctil mejorado",
-            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+            "featureTitle1": "Diseño actualizado",
+            "featureDescription1": "Delfos 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
     
-            "feature-title-3": "Integración de Microsoft Teams",
-            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+            "featureTitle2": "Soporte táctil mejorado",
+            "featureDescription2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
     
-            "feature-title-4": "Mejoras en el rendimiento",
-            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+            "featureTitle3": "Integración de Microsoft Teams",
+            "featureDescription3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
     
-            "feature-title-5": "Nueva Microsoft Store",
-            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+            "featureTitle4": "Mejoras en el rendimiento",
+            "featureDescription4": "Delfos 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
     
-            "feature-title-6": "Mejoras en la multitarea",
-            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+            "featureTitle5": "Nueva Microsoft Store",
+            "featureDescription5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Delfos.",
     
-            "feature-title-7": "Modo oscuro mejorado",
-            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+            "featureTitle6": "Mejoras en la multitarea",
+            "featureDescription6": "Delfos 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
     
-            "feature-title-8": "Seguridad mejorada",
-            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+            "featureTitle7": "Modo oscuro mejorado",
+            "featureDescription7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
     
-            "feature-title-9": "Continuidad de la experiencia",
-            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+            "featureTitle8": "Seguridad mejorada",
+            "featureDescription8": "Delfos 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+    
+            "featureTitle9": "Continuidad de la experiencia",
+            "featureDescription9": "Delfos 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
         },
         {
             "id": 4,
     
-            "title": "DelfOS 13 Pro",
+            "category": "delfos",
+
+            "price": 259.00,
     
-            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+            "title": "DelfOS 11 Pro",
     
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+            "image": "https://i.imgur.com/AzqLtmV.png",
     
-            "feature-title-1": "Diseño actualizado",
-            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+            "description": "Con características avanzadas y herramientas exclusivas, podrás disfrutar de la mejor experiencia de usuario para profesionales. Una de las principales características de DelfOS 11 Pro es su rendimiento mejorado. Dispondrás de una mayor eficiencia en el uso de recursos, lo que te permitirá trabajar de forma más fluida y sin interrupciones. Además, podrás utilizar herramientas exclusivas para profesionales, como ByteLocker Pro, que te permitirán cifrar tus datos y protegerlos de accesos no autorizados. DelfOS 11 Pro también incluye características avanzadas de seguridad, como el sistema de control de acceso AppGuard, que te permitirá proteger tus aplicaciones y datos de posibles amenazas cibernéticas. Además, podrás unirte a un dominio y acceder a recursos compartidos de red, para que puedas trabajar con tus compañeros de forma más colaborativa.",
     
-            "feature-title-2": "Soporte táctil mejorado",
-            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+            "featureTitle1": "Diseño actualizado",
+            "featureDescription1": "Delfos 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
     
-            "feature-title-3": "Integración de Microsoft Teams",
-            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+            "featureTitle2": "Soporte táctil mejorado",
+            "featureDescription2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
     
-            "feature-title-4": "Mejoras en el rendimiento",
-            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+            "featureTitle3": "Integración de Microsoft Teams",
+            "featureDescription3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
     
-            "feature-title-5": "Nueva Microsoft Store",
-            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+            "featureTitle4": "Mejoras en el rendimiento",
+            "featureDescription4": "Delfos 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
     
-            "feature-title-6": "Mejoras en la multitarea",
-            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+            "featureTitle5": "Nueva Microsoft Store",
+            "featureDescription5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Delfos.",
     
-            "feature-title-7": "Modo oscuro mejorado",
-            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+            "featureTitle6": "Mejoras en la multitarea",
+            "featureDescription6": "Delfos 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
     
-            "feature-title-8": "Seguridad mejorada",
-            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+            "featureTitle7": "Modo oscuro mejorado",
+            "featureDescription7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
     
-            "feature-title-9": "Continuidad de la experiencia",
-            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+            "featureTitle8": "Seguridad mejorada",
+            "featureDescription8": "Delfos 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+    
+            "featureTitle9": "Continuidad de la experiencia",
+            "featureDescription9": "Delfos 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
         },
         {
             "id": 5,
+
+            "category": "delfos",
+
+            "price": 459.00,
     
-            "title": "DelfOS 13 Pro",
+            "title": "DelfOS 10 Server",
     
-            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+            "image": "https://i.imgur.com/w9SrtA4.png",
     
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+            "description": "Con características avanzadas y herramientas exclusivas para servidores, podrás disfrutar de la mejor experiencia de usuario. DelfOS 10 Server está diseñado específicamente para proporcionar la mejor experiencia de servidor posible. Podrás acceder a características exclusivas para servidores, como Remote Desktop Services, que te permitirán acceder a tu servidor desde cualquier lugar del mundo de forma segura y sin preocuparte por la seguridad. Además, DelfOS 10 Server incluye características avanzadas de seguridad, como BitLocker Server, que te permitirán cifrar tus datos y protegerlos de accesos no autorizados. Además, podrás utilizar características exclusivas para servidores, como el modo de aislamiento de contenedor Hyper-V, que te permitirá crear y ejecutar contenedores de forma segura y sin preocuparte por la seguridad.",
     
-            "feature-title-1": "Diseño actualizado",
-            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+            "featureTitle1": "Diseño actualizado",
+            "featureDescription1": "Delfos 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
     
-            "feature-title-2": "Soporte táctil mejorado",
-            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+            "featureTitle2": "Soporte táctil mejorado",
+            "featureDescription2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
     
-            "feature-title-3": "Integración de Microsoft Teams",
-            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+            "featureTitle3": "Integración de Microsoft Teams",
+            "featureDescription3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
     
-            "feature-title-4": "Mejoras en el rendimiento",
-            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+            "featureTitle4": "Mejoras en el rendimiento",
+            "featureDescription4": "Delfos 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
     
-            "feature-title-5": "Nueva Microsoft Store",
-            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+            "featureTitle5": "Nueva Microsoft Store",
+            "featureDescription5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Delfos.",
     
-            "feature-title-6": "Mejoras en la multitarea",
-            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+            "featureTitle6": "Mejoras en la multitarea",
+            "featureDescription6": "Delfos 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
     
-            "feature-title-7": "Modo oscuro mejorado",
-            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+            "featureTitle7": "Modo oscuro mejorado",
+            "featureDescription7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
     
-            "feature-title-8": "Seguridad mejorada",
-            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+            "featureTitle8": "Seguridad mejorada",
+            "featureDescription8": "Delfos 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
     
-            "feature-title-9": "Continuidad de la experiencia",
-            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+            "featureTitle9": "Continuidad de la experiencia",
+            "featureDescription9": "Delfos 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
         },
         {
             "id": 6,
+
+            "category": "delfos",
+
+            "price": 659.00,
     
-            "title": "DelfOS 13 Pro",
     
-            "image": "https://img.icons8.com/fluency/512/windows-11.png",
+            "title": "DelfOS 11 Server",
     
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis similique consequuntur culpa molestias velit minus eius molestiae nam ex deleniti doloribus voluptate architecto facere, praesentium sed tempore asperiores aspernatur? Optio!.",
+            "image": "https://i.imgur.com/MlJYhP8.png",
     
-            "feature-title-1": "Diseño actualizado",
-            "feature-description-1": "Windows 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
+            "description": "Con características avanzadas y herramientas exclusivas para servidores, podrás disfrutar de la mejor experiencia de servidor posible. Una de las características más destacadas de DelfOS 11 Server es su rendimiento mejorado. Gracias a su nueva arquitectura y características de virtualización, podrás ejecutar tus aplicaciones y servicios con la máxima eficiencia. Además, podrás utilizar herramientas exclusivas para servidores, como ByteLocker Server, que te permitirán cifrar tus datos y protegerlos de accesos no autorizados. DelfOS 11 Server también incluye características avanzadas de seguridad, como AppGuard Server, que te permitirá proteger tus aplicaciones y datos de posibles amenazas cibernéticas. Además, podrás unirte a un dominio y acceder a recursos compartidos de red, para que puedas trabajar con tus compañeros de forma más colaborativa.",
     
-            "feature-title-2": "Soporte táctil mejorado",
-            "feature-description-2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
+            "featureTitle1": "Diseño actualizado",
+            "featureDescription1": "Delfos 11 presenta una nueva interfaz de usuario moderna con esquinas redondeadas, iconos renovados, transparencias y efectos de animación.",
     
-            "feature-title-3": "Integración de Microsoft Teams",
-            "feature-description-3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
+            "featureTitle2": "Soporte táctil mejorado",
+            "featureDescription2": "La experiencia táctil ha sido mejorada para dispositivos con pantalla táctil, con nuevos gestos y una barra de tareas más amigable para tocar.",
     
-            "feature-title-4": "Mejoras en el rendimiento",
-            "feature-description-4": "Windows 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
+            "featureTitle3": "Integración de Microsoft Teams",
+            "featureDescription3": "La aplicación de videoconferencia y colaboración en equipo de Microsoft está integrada directamente en el sistema operativo, lo que permite a los usuarios unirse rápidamente a reuniones y llamar a contactos.",
     
-            "feature-title-5": "Nueva Microsoft Store",
-            "feature-description-5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Windows.",
+            "featureTitle4": "Mejoras en el rendimiento",
+            "featureDescription4": "Delfos 11 utiliza mejor los recursos del hardware, lo que resulta en un rendimiento más rápido y eficiente.",
     
-            "feature-title-6": "Mejoras en la multitarea",
-            "feature-description-6": "Windows 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
+            "featureTitle5": "Nueva Microsoft Store",
+            "featureDescription5": "La tienda de aplicaciones de Microsoft ha sido rediseñada y ahora ofrece aplicaciones de Android, así como una mayor selección de aplicaciones para Delfos.",
     
-            "feature-title-7": "Modo oscuro mejorado",
-            "feature-description-7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
+            "featureTitle6": "Mejoras en la multitarea",
+            "featureDescription6": "Delfos 11 presenta Snap Layouts y Snap Groups, que permiten a los usuarios organizar y cambiar rápidamente entre varias ventanas abiertas. También se ha mejorado el escritorio virtual para una mejor organización del espacio de trabajo.",
     
-            "feature-title-8": "Seguridad mejorada",
-            "feature-description-8": "Windows 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+            "featureTitle7": "Modo oscuro mejorado",
+            "featureDescription7": "El modo oscuro ha sido mejorado con nuevos tonos de color y transparencias, lo que ofrece una experiencia más cómoda para los ojos en entornos con poca luz.",
     
-            "feature-title-9": "Continuidad de la experiencia",
-            "feature-description-9": "Windows 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+            "featureTitle8": "Seguridad mejorada",
+            "featureDescription8": "Delfos 11 presenta nuevas características de seguridad, como el cifrado de memoria en tiempo real y la autenticación biométrica más avanzada. También se ha mejorado la protección contra malware y otras amenazas de seguridad.",
+    
+            "featureTitle9": "Continuidad de la experiencia",
+            "featureDescription9": "Delfos 11 ofrece una experiencia de usuario más fluida y consistente en todos los dispositivos, desde PC hasta tabletas y teléfonos inteligentes."
+        },
+        {
+            "id": 7,
+
+            "category": "juliusplans",
+
+            "price": 659.00,
+    
+            "title": "Julius Plans: Familia",
+    
+            "image": "https://i.imgur.com/bPaFNqX.png",
+    
+            "description": "el paquete de servicios de productividad de última generación que hará que tu vida familiar sea más sencilla: ¿Necesitas una solución integral de productividad para toda la familia? Entonces Julius Plans: Familia es para ti. Con todas las aplicaciones de Microsoft 365 que conoces y adoras, más algunas características exclusivas de Julius, podrás disfrutar de la mejor experiencia de productividad. Con Julius Plans: Familia, podrás compartir el paquete de servicios con hasta 6 personas de tu familia, lo que significa que todos tendrán acceso a aplicaciones como Word, Excel y PowerPoint en sus dispositivos, además de 1 TB de almacenamiento en OneDrive. Además, podrás utilizar características exclusivas de Julius, como Julius Kids, que te permitirá establecer límites de tiempo y controlar el acceso a contenido inapropiado para tus hijos. Julius Plans: Familia también incluye herramientas para mantener a tu familia organizada, como un calendario compartido y un bloc de notas familiar en OneNote. Además, tendrás acceso a características exclusivas de Julius, como Julius Meal Planner, que te ayudará a planificar tus comidas semanales y generar automáticamente una lista de compras."
+        },
+        {
+            "id": 8,
+
+            "category": "juliusplans",
+
+            "price": 659.00,
+    
+            "title": "Julius Plans: Personal",
+    
+            "image": "https://i.imgur.com/bPaFNqX.png",
+    
+            "description": "Julius Plans: Personal, el paquete de servicios de productividad personalizado que hará que tu vida sea más fácil: ¿Necesitas una solución de productividad que se adapte a tu estilo de vida? Entonces Julius Plans: Personal es para ti. Con todas las aplicaciones de Microsoft 365 que conoces y adoras, más algunas características exclusivas de Julius, podrás disfrutar de la mejor experiencia de productividad. Con Julius Plans: Personal, tendrás acceso a todas las aplicaciones de Microsoft 365, como Word, Excel y PowerPoint, además de 1 TB de almacenamiento en OneDrive. Además, podrás utilizar características exclusivas de Julius, como Julius Focus, que te ayudará a mantenerte enfocado y productivo durante todo el día. Julius Plans: Personal también incluye herramientas para mantener tu vida organizada, como un calendario integrado y un bloc de notas personal en OneNote. Además, tendrás acceso a características exclusivas de Julius, como Julius Travel, que te ayudará a planificar tus próximas vacaciones y encontrar las mejores ofertas de viaje."
+    
+        },
+        {
+            "id": 9,
+
+            "category": "juliusplans",
+
+            "price": 659.00,
+    
+            "title": "Julius Plans: Hogar y Empresas",
+    
+            "image": "https://i.imgur.com/bPaFNqX.png",
+    
+            "description": "Julius Plans: Hogar y Empresas, el paquete de servicios de productividad que te permitirá combinar tus tareas profesionales y personales en una sola plataforma: ¿Necesitas una solución de productividad para tu hogar y empresa? Entonces Julius Plans: Hogar y Empresas es para ti. Con todas las aplicaciones de Microsoft 365 que conoces y adoras, más algunas características exclusivas de Julius, podrás disfrutar de la mejor experiencia de productividad en un solo lugar. Con Julius Plans: Hogar y Empresas, tendrás acceso a todas las aplicaciones de Microsoft 365, como Word, Excel y PowerPoint, además de 1 TB de almacenamiento en OneDrive. Además, podrás utilizar características exclusivas de Julius, como Julius Project Manager, que te permitirá organizar y supervisar tus proyectos profesionales y personales en una sola plataforma. Julius Plans: Hogar y Empresas también incluye herramientas para mantener tu vida organizada y enfocada, como un calendario integrado y un bloc de notas en OneNote. Además, tendrás acceso a características exclusivas de Julius, como Julius Finance, que te ayudará a controlar tus finanzas personales y empresariales de manera fácil y eficiente."
+    
+        },
+        {
+            "id": 10,
+
+            "category": "juliusplans",
+
+            "price": 659.00,
+    
+            "title": "Julius Plans: Familia",
+    
+            "image": "https://i.imgur.com/bPaFNqX.png",
+    
+            "description": "el paquete de servicios de productividad de última generación que hará que tu vida familiar sea más sencilla: ¿Necesitas una solución integral de productividad para toda la familia? Entonces Julius Plans: Familia es para ti. Con todas las aplicaciones de Microsoft 365 que conoces y adoras, más algunas características exclusivas de Julius, podrás disfrutar de la mejor experiencia de productividad. Con Julius Plans: Familia, podrás compartir el paquete de servicios con hasta 6 personas de tu familia, lo que significa que todos tendrán acceso a aplicaciones como Word, Excel y PowerPoint en sus dispositivos, además de 1 TB de almacenamiento en OneDrive. Además, podrás utilizar características exclusivas de Julius, como Julius Kids, que te permitirá establecer límites de tiempo y controlar el acceso a contenido inapropiado para tus hijos. Julius Plans: Familia también incluye herramientas para mantener a tu familia organizada, como un calendario compartido y un bloc de notas familiar en OneNote. Además, tendrás acceso a características exclusivas de Julius, como Julius Meal Planner, que te ayudará a planificar tus comidas semanales y generar automáticamente una lista de compras."
+        },
+        {
+            "id": 11,
+
+            "category": "juliusplans",
+
+            "price": 659.00,
+    
+            "title": "Julius Plans: Personal",
+    
+            "image": "https://i.imgur.com/bPaFNqX.png",
+    
+            "description": "Julius Plans: Personal, el paquete de servicios de productividad personalizado que hará que tu vida sea más fácil: ¿Necesitas una solución de productividad que se adapte a tu estilo de vida? Entonces Julius Plans: Personal es para ti. Con todas las aplicaciones de Microsoft 365 que conoces y adoras, más algunas características exclusivas de Julius, podrás disfrutar de la mejor experiencia de productividad. Con Julius Plans: Personal, tendrás acceso a todas las aplicaciones de Microsoft 365, como Word, Excel y PowerPoint, además de 1 TB de almacenamiento en OneDrive. Además, podrás utilizar características exclusivas de Julius, como Julius Focus, que te ayudará a mantenerte enfocado y productivo durante todo el día. Julius Plans: Personal también incluye herramientas para mantener tu vida organizada, como un calendario integrado y un bloc de notas personal en OneNote. Además, tendrás acceso a características exclusivas de Julius, como Julius Travel, que te ayudará a planificar tus próximas vacaciones y encontrar las mejores ofertas de viaje."
+    
+        },
+        {
+            "id": 12,
+
+            "category": "juliusplans",
+
+            "price": 659.00,
+    
+            "title": "Julius Plans: Hogar y Empresas",
+    
+            "image": "https://i.imgur.com/bPaFNqX.png",
+    
+            "description": "Julius Plans: Hogar y Empresas, el paquete de servicios de productividad que te permitirá combinar tus tareas profesionales y personales en una sola plataforma: ¿Necesitas una solución de productividad para tu hogar y empresa? Entonces Julius Plans: Hogar y Empresas es para ti. Con todas las aplicaciones de Microsoft 365 que conoces y adoras, más algunas características exclusivas de Julius, podrás disfrutar de la mejor experiencia de productividad en un solo lugar. Con Julius Plans: Hogar y Empresas, tendrás acceso a todas las aplicaciones de Microsoft 365, como Word, Excel y PowerPoint, además de 1 TB de almacenamiento en OneDrive. Además, podrás utilizar características exclusivas de Julius, como Julius Project Manager, que te permitirá organizar y supervisar tus proyectos profesionales y personales en una sola plataforma. Julius Plans: Hogar y Empresas también incluye herramientas para mantener tu vida organizada y enfocada, como un calendario integrado y un bloc de notas en OneNote. Además, tendrás acceso a características exclusivas de Julius, como Julius Finance, que te ayudará a controlar tus finanzas personales y empresariales de manera fácil y eficiente."
+        },
+        {
+            "id": 13,
+
+            "category": "othersoftware",
+
+            "price": 659.00,
+    
+            "title": "Apollo",
+    
+            "image": "https://i.imgur.com/bVYfdUJ.png",
+    
+            "description": "Con Apollo, el software de autoedición profesional de próxima generación, podrás crear diseños increíbles para todo tipo de publicaciones, desde libros y revistas hasta materiales de marketing y plantillas de redes sociales. Su interfaz fluida e intuitiva te permitirá combinar tus imágenes, gráficos y texto de manera fácil y rápida, para obtener resultados impresionantes en muy poco tiempo. Con Apollo, tendrás acceso a una amplia variedad de herramientas de diseño, como cuadrículas de alineación automática, herramientas de recorte de imágenes, y opciones de edición de texto avanzadas. Además, podrás elegir entre cientos de plantillas pre-diseñadas, para que puedas empezar a trabajar de inmediato. Con Apollo, no tendrás que preocuparte por la calidad de tus diseños, ya que cuenta con un sistema de verificación de calidad integrado que te asegurará que tus publicaciones se vean increíbles, sin importar el tamaño o la complejidad del proyecto. Además, Apollo es compatible con los principales formatos de archivo, lo que significa que podrás exportar tus diseños en cualquier formato que necesites."
+        },
+        {
+            "id": 14,
+
+            "category": "othersoftware",
+
+            "price": 659.00,
+    
+            "title": "PL Studio: Pro & Home",
+    
+            "image": "https://i.imgur.com/8Ku4WJU.png",
+    
+            "description": "PL Studio: Pro & Home es el software de producción musical definitivo, diseñado para llevar tus ideas musicales del cerebro a tus altavoces de la manera más rápida y eficiente posible. Con más de 20 años de desarrollo continuo, PL Studio es el programa de referencia en la industria de la música electrónica. Desde los mejores DJ y productores del mundo hasta los novatos, PL Studio ha sido el programa elegido para hacer canciones y mezclas en el hogar. Con la versión de prueba, podrás experimentar con tus propias creaciones y guardar tus proyectos, y luego exportarlos a formatos de audio como MP3 y WAV para compartirlos con el mundo. PL Studio cuenta con una amplia variedad de herramientas de producción musical, como sintetizadores, samplers, efectos de sonido, mezcladores y mucho más. Además, su interfaz intuitiva y fácil de usar te permitirá crear canciones y mezclas de manera rápida y sencilla, sin tener que preocuparte por la complejidad de otros programas. Así que si estás listo para llevar tu música al siguiente nivel, no esperes más y descarga la versión de prueba de PL Studio: Pro & Home hoy mismo. ¿Hasta dónde te llevará PL Studio? ¡La decisión está en tus manos!"
+        },
+        {
+            "id": 15,
+
+            "category": "othersoftware",
+
+            "price": 659.00,
+    
+            "title": "Picshop Pro",
+    
+            "image": "https://i.imgur.com/UeZz5lc.png",
+    
+            "description": "Picshop Pro es la herramienta perfecta para aquellos que buscan darle un toque especial a sus fotos. Con este programa, puedes combinar, retocar y remezclar tus imágenes, creando efectos sorprendentes y únicos. ¿Tienes una foto en blanco y negro que quieres convertir a color? ¿Quieres eliminar algún objeto no deseado de tu imagen? ¿O tal vez quieres convertir un fondo aburrido en un paraíso exótico? Con Picshop, todo esto y mucho más es posible. Lo mejor de todo es que Picshop es muy fácil de usar, lo que significa que cualquiera puede utilizarlo, incluso aquellos que no tienen experiencia previa en edición de imágenes. Además, el programa se actualiza constantemente, agregando nuevas funciones para hacerlo más rápido, más inteligente y más divertido para todos. Así que no esperes más y descarga Picshop Pro hoy mismo para comenzar a transformar tus fotos en obras de arte. ¡No te arrepentirás!"
+        },
+        {
+            "id": 16,
+
+            "category": "othersoftware",
+
+            "price": 659.00,
+    
+            "title": "Apollo",
+    
+            "image": "https://i.imgur.com/bVYfdUJ.png",
+    
+            "description": "Con Apollo, el software de autoedición profesional de próxima generación, podrás crear diseños increíbles para todo tipo de publicaciones, desde libros y revistas hasta materiales de marketing y plantillas de redes sociales. Su interfaz fluida e intuitiva te permitirá combinar tus imágenes, gráficos y texto de manera fácil y rápida, para obtener resultados impresionantes en muy poco tiempo. Con Apollo, tendrás acceso a una amplia variedad de herramientas de diseño, como cuadrículas de alineación automática, herramientas de recorte de imágenes, y opciones de edición de texto avanzadas. Además, podrás elegir entre cientos de plantillas pre-diseñadas, para que puedas empezar a trabajar de inmediato. Con Apollo, no tendrás que preocuparte por la calidad de tus diseños, ya que cuenta con un sistema de verificación de calidad integrado que te asegurará que tus publicaciones se vean increíbles, sin importar el tamaño o la complejidad del proyecto. Además, Apollo es compatible con los principales formatos de archivo, lo que significa que podrás exportar tus diseños en cualquier formato que necesites."
+        },
+        {
+            "id": 17,
+
+            "category": "othersoftware",
+
+            "price": 659.00,
+    
+            "title": "PL Studio: Pro & Home",
+    
+            "image": "https://i.imgur.com/8Ku4WJU.png",
+    
+            "description": "PL Studio: Pro & Home es el software de producción musical definitivo, diseñado para llevar tus ideas musicales del cerebro a tus altavoces de la manera más rápida y eficiente posible. Con más de 20 años de desarrollo continuo, PL Studio es el programa de referencia en la industria de la música electrónica. Desde los mejores DJ y productores del mundo hasta los novatos, PL Studio ha sido el programa elegido para hacer canciones y mezclas en el hogar. Con la versión de prueba, podrás experimentar con tus propias creaciones y guardar tus proyectos, y luego exportarlos a formatos de audio como MP3 y WAV para compartirlos con el mundo. PL Studio cuenta con una amplia variedad de herramientas de producción musical, como sintetizadores, samplers, efectos de sonido, mezcladores y mucho más. Además, su interfaz intuitiva y fácil de usar te permitirá crear canciones y mezclas de manera rápida y sencilla, sin tener que preocuparte por la complejidad de otros programas. Así que si estás listo para llevar tu música al siguiente nivel, no esperes más y descarga la versión de prueba de PL Studio: Pro & Home hoy mismo. ¿Hasta dónde te llevará PL Studio? ¡La decisión está en tus manos!"
+        },
+        {
+            "id": 18,
+
+            "category": "othersoftware",
+
+            "price": 659.00,
+    
+            "title": "Picshop Pro",
+    
+            "image": "https://i.imgur.com/UeZz5lc.png",
+    
+            "description": "Picshop Pro es la herramienta perfecta para aquellos que buscan darle un toque especial a sus fotos. Con este programa, puedes combinar, retocar y remezclar tus imágenes, creando efectos sorprendentes y únicos. ¿Tienes una foto en blanco y negro que quieres convertir a color? ¿Quieres eliminar algún objeto no deseado de tu imagen? ¿O tal vez quieres convertir un fondo aburrido en un paraíso exótico? Con Picshop, todo esto y mucho más es posible. Lo mejor de todo es que Picshop es muy fácil de usar, lo que significa que cualquiera puede utilizarlo, incluso aquellos que no tienen experiencia previa en edición de imágenes. Además, el programa se actualiza constantemente, agregando nuevas funciones para hacerlo más rápido, más inteligente y más divertido para todos. Así que no esperes más y descarga Picshop Pro hoy mismo para comenzar a transformar tus fotos en obras de arte. ¡No te arrepentirás!"
         }
+
     ]
   }
   

@@ -15,6 +15,9 @@
     }
 
     .category__list{
+        opacity: 0;
+        animation: fadeIn 1s forwards;
+
         @include flex(column, nowrap, space-between, center, $space-8);
         position: absolute;
         margin-top: 1rem;

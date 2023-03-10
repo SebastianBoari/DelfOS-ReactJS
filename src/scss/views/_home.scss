@@ -1,4 +1,4 @@
-#home{
+#home{    
     display: grid;
     place-items: center;
     height: 100vh;
@@ -7,6 +7,10 @@
     background-position: center;
     background-size: cover;
     .home__article{
+        // Animacion
+        opacity: 0;
+        animation: fadeIn 3s forwards;
+
         @include flex(column, nowrap, center, center, $space-32);
         .article__figure{
             @include flex(row, nowrap, center, center, 0);

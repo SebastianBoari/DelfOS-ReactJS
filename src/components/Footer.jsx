@@ -8,15 +8,15 @@ const Footer = () => {
       <nav className='footer__navbar'>
         <ul className='navbar__list'>
           <li className='list__item'>
-            <a href="https://sebastianboari.github.io/DelfOS.github.io/">DelfOS</a>
+            <a href="https://sebastianboari.github.io/DelfOS.github.io/" target="_blank">DelfOS</a>
           </li>
 
           <li className='list__item'>
-            <a href="https://sebastianboari.github.io/DelfOS.github.io/pages/nosotros.html">Nosotros</a>
+            <a href="https://sebastianboari.github.io/DelfOS.github.io/pages/nosotros.html" target="_blank">Nosotros</a>
           </li>
 
           <li className='list__item'>
-            <a href="https://sebastianboari.github.io/DelfOS.github.io/pages/partners.html">Partners</a>
+            <a href="https://sebastianboari.github.io/DelfOS.github.io/pages/partners.html" target="_blank">Partners</a>
           </li>
         </ul>
       </nav>
