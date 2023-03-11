@@ -6,4 +6,4 @@ Sitio basico/simple, simula  un e-commerce de software, la intencion es poner en
 1.  **React Router Dom V6** (Link, NavLink, useParams)
 1.  **SASS **(Mixins, variables, anidado, modulos)
 
-[Imgur](https://imgur.com/vufNS77)
+![](https://i.imgur.com/vufNS77.mp4)

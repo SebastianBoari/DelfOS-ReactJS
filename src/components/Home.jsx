@@ -2,7 +2,7 @@ import React from 'react'
 import HomeLogo from '../assets/delfos-logo-xxl.png';
 import HomeBackgroundImg from '../assets/bg-white-1.jpg'
 import CallToActionButton from './CallToActionButton'
-import Brand from './Brand';
+import Brand from './Brand'
 
 const Home = () => {
   return (
