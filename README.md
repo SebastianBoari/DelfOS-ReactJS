@@ -17,6 +17,6 @@ Sitio basico/simple, simula  un e-commerce de software, la intencion es poner en
 
 Basic/simple website that simulates a software e-commerce, the intention is to put into practice what was learned in the ReactJS course syllabus taught by Coderhouse. (Custom styles)
 
--     **React JS** (.jsx, modularization, useState, useEffect)
+-    **React JS** (.jsx, modularization, useState, useEffect)
 -    **React Router Dom V6** (Link, NavLink, useParams)
 -   **SASS** (Mixins, variables, nesting, modules)
