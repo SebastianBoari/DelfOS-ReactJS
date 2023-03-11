@@ -4,6 +4,6 @@ Sitio basico/simple, simula  un e-commerce de software, la intencion es poner en
 
 1.  **React JS** (.jsx, modularizacion, useState, useEffect)
 1.  **React Router Dom V6** (Link, NavLink, useParams)
-1.  **SASS **(Mixins, variables, anidado, modulos)
+1.  **SASS** (Mixins, variables, anidado, modulos)
 
 ![](https://i.imgur.com/vufNS77.mp4)
