@@ -1,13 +1,13 @@
 #catalogue{
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom;
     background-size: cover;
 
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     place-items: center;
 
-    min-height: 160rem;
+    min-height: 110rem;
     padding: $space-128 0;
     #itemList{
         grid-column: 2/3;

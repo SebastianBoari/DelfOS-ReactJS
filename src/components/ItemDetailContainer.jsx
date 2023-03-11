@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ItemDetail from './ItemDetail';
 import { useParams } from 'react-router-dom';
+import Loader from './Loader';
 import DetailsBackgroundImg from '../assets/bg-dark-2.png';
 
 const ItemDetailContainer = () => {
@@ -43,6 +44,14 @@ const ItemDetailContainer = () => {
       <>
         <section id='productDetail' style={{backgroundImage: `url(${DetailsBackgroundImg})`}}>
           <ItemDetail idFilter={idFilter}/>
+        </section>
+      </>
+    );
+  } else {
+    return (
+      <>
+        <section id='productDetail' style={{backgroundImage: `url(${DetailsBackgroundImg})`}}>
+          <Loader />
         </section>
       </>
     );

@@ -1,9 +1,11 @@
 #itemDetail{
+    grid-column: 2/3;
+    align-self: start;
+
     display: grid;
     grid-template-columns: auto auto;
-    column-gap: $space-64;
 
-    background-color: $white-op80;
+    background-color: $white;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 
     border-radius: 4px;
@@ -76,6 +78,7 @@
         }
     }
     #itemDetail__right{
+        padding-left: $space-64;
         table{
             border: solid 2px rgba(123, 123, 123, 1);
             border-radius: 4px;

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import ItemList from './ItemList';
 import CatalogueBackgroundImg from '../assets/bg-dark-1.png'
+import Loader from './Loader';
 
 const ItemListContainer = () => {
   // Inicializo un estado con un array vacio donde guardar los productos
@@ -34,11 +35,20 @@ const ItemListContainer = () => {
 
   const categoryFilter = productos.filter((producto) => producto.category === category);
   
-  return (
-    <section id='catalogue' style={{backgroundImage: `url(${CatalogueBackgroundImg})`}}>
-      {category ? <ItemList productos={categoryFilter} /> : <ItemList productos={productos} />}
-    </section>
-  );
+  if(productos.length > 0){
+    return (
+      <section id='catalogue' style={{backgroundImage: `url(${CatalogueBackgroundImg})`}}>
+        {category ? <ItemList productos={categoryFilter} /> : <ItemList productos={productos} />}
+      </section>
+    );
+  } else {
+    return (
+      <section id='catalogue' style={{backgroundImage: `url(${CatalogueBackgroundImg})`}}>
+        <Loader />
+      </section>
+    );
+  }
+
 
 };
 

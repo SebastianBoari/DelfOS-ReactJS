@@ -7,12 +7,15 @@
 @import './misc/normalize';
 @import './misc/layout';
 // PARTIALS
+@import './partials/loader';
 @import './partials/navbar';
 @import './partials/footer';
 @import './partials/form';
 @import './partials/categoryButton';
 @import './partials/card';
 @import './partials/itemDetail';
+@import './partials/cartWidget';
+@import './partials/callToActionButton';
 // VIEWS
 @import './views/home';
 @import './views/contactUs';

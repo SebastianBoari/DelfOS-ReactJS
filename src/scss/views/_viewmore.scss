@@ -4,7 +4,10 @@
     background-size: cover;
     
     display: grid;
+    grid-template-columns: 1fr auto 1fr;
     place-items: center;
 
+    min-height: 110rem;
+    
     padding: 11rem 0;
 }

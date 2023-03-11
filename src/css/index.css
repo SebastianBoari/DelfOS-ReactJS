@@ -44,6 +44,27 @@ body {
   display: none !important;
 }
 
+.loader {
+  grid-column: 2/3;
+  justify-self: center;
+  width: 6rem;
+  height: 6rem;
+  border-radius: 50%;
+  display: inline-block;
+  border-top: 3px solid rgb(255, 255, 255);
+  border-right: 3px solid transparent;
+  box-sizing: border-box;
+  animation: rotation 0.8s linear infinite;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 #header {
   display: flex;
   flex-direction: row;
@@ -54,11 +75,11 @@ body {
   position: fixed;
   z-index: 999;
   width: 100vw;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgb(255, 255, 255);
   padding: 0.8rem 6.4rem;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
-#header .header__figure .figure__img {
+#header #brand #brand__img {
   width: 6rem;
 }
 #header .header__navBar .navBar__list {
@@ -229,7 +250,7 @@ body {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   padding: 3.2rem;
   max-width: 34rem;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgb(255, 255, 255);
   border-radius: 18px 8px;
 }
 .card .card__header {
@@ -302,10 +323,11 @@ body {
 }
 
 #itemDetail {
+  grid-column: 2/3;
+  align-self: start;
   display: grid;
   grid-template-columns: auto auto;
-  column-gap: 6.4rem;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgb(255, 255, 255);
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   border-radius: 4px;
   padding: 3.2rem;
@@ -382,6 +404,9 @@ body {
   background-color: rgb(0, 126, 167);
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
+#itemDetail #itemDetail__right {
+  padding-left: 6.4rem;
+}
 #itemDetail #itemDetail__right table {
   border: solid 2px rgb(123, 123, 123);
   border-radius: 4px;
@@ -407,6 +432,42 @@ body {
   line-height: 2.4rem;
 }
 
+#cartWidget {
+  height: 100%;
+  padding: 0.6rem 0.8rem;
+  border-radius: 4px;
+}
+#cartWidget a {
+  color: rgb(0, 52, 89);
+}
+#cartWidget a svg {
+  width: 4.5rem;
+  height: 4.5rem;
+  transition: all 0.3s;
+}
+#cartWidget a:hover {
+  color: rgb(255, 255, 255);
+}
+
+#cartWidget:hover {
+  background-color: rgb(0, 52, 89);
+}
+
+#home .article__button {
+  cursor: pointer;
+  background-color: rgb(0, 52, 89);
+  border: none;
+  color: rgb(255, 255, 255);
+  border-radius: 2px;
+  font-size: 1.8em;
+  padding: 1.2rem 3.2rem;
+  transition: all 0.3s;
+}
+#home .article__button:hover {
+  background-color: rgb(0, 126, 167);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
 #home {
   display: grid;
   place-items: center;
@@ -426,7 +487,7 @@ body {
   align-items: center;
   gap: 3.2rem;
 }
-#home .home__article .article__figure {
+#home .home__article #brand {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -434,7 +495,7 @@ body {
   align-items: center;
   gap: 0;
 }
-#home .home__article .article__figure .figure__img {
+#home .home__article #brand #brand__img {
   width: 25rem;
 }
 #home .home__article .article__txt {
@@ -443,20 +504,6 @@ body {
 #home .home__article .article__txt .txt__p {
   font-size: 2.2em;
   color: rgb(0, 126, 167);
-}
-#home .home__article .article__button {
-  cursor: pointer;
-  background-color: rgb(0, 52, 89);
-  border: none;
-  border-radius: 2px;
-  font-size: 1.8em;
-  color: rgb(255, 255, 255);
-  padding: 1.2rem 3.2rem;
-  transition: all 0.3s;
-}
-#home .home__article .article__button:hover {
-  background-color: rgb(0, 126, 167);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
 #contactUs {
@@ -509,12 +556,12 @@ body {
 
 #catalogue {
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: bottom;
   background-size: cover;
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   place-items: center;
-  min-height: 160rem;
+  min-height: 110rem;
   padding: 12.8rem 0;
 }
 #catalogue #itemList {
@@ -529,7 +576,9 @@ body {
   background-position: bottom;
   background-size: cover;
   display: grid;
+  grid-template-columns: 1fr auto 1fr;
   place-items: center;
+  min-height: 110rem;
   padding: 11rem 0;
 }
 

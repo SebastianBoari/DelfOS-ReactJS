@@ -6,6 +6,7 @@ import Catalogue from './components/ItemListContainer';
 import ItemDetailContainer from './components/ItemDetailContainer'; 
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
+import Cart from './components/Cart';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route exact path='/contactUs' element={<ContactUs />} />
         <Route exact path='/category/:category' element={<Catalogue />} />
         <Route exact path='/item/:id' element={<ItemDetailContainer />} />
+        <Route exact path='/cart' element={<Cart/>} />
       </Routes>
 
       <Footer />
