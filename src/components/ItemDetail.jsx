@@ -17,7 +17,7 @@ const ItemDetail = ({ idFilter }) => {
             <h2 id='header__title'>{producto.title}</h2>
           </div>
           <div id='itemDetail__body'>
-            <p>{producto.description}</p>
+            <p className='body__description'>{producto.description}</p>
           </div>
           <div id='itemDetail__footer'>
             <p id='footer__price'>${producto.price}</p>

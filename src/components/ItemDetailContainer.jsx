@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ItemDetail from './ItemDetail';
 import { useParams } from 'react-router-dom';
+import DetailsBackgroundImg from '../assets/bg-dark-2.png';
 
 const ItemDetailContainer = () => {
 
@@ -40,7 +41,7 @@ const ItemDetailContainer = () => {
   if(informacion.length > 0){
     return (
       <>
-        <section id='productDetail'>
+        <section id='productDetail' style={{backgroundImage: `url(${DetailsBackgroundImg})`}}>
           <ItemDetail idFilter={idFilter}/>
         </section>
       </>
