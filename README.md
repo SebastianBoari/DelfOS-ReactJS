@@ -1,9 +1,22 @@
 # DelfOS: React JS
 **Proyeto de practica:**
+
 Sitio basico/simple, simula  un e-commerce de software, la intencion es poner en practica lo visto en el temario del curso de ReactJS impartido por Coderhouse. (Estilos propios)
 
-1.  **React JS** (.jsx, modularizacion, useState, useEffect)
-1.  **React Router Dom V6** (Link, NavLink, useParams)
-1.  **SASS** (Mixins, variables, anidado, modulos)
+-   **React JS** (.jsx, modularizacion, useState, useEffect)
+-   **React Router Dom V6** (Link, NavLink, useParams)
+-   **SASS **(Mixins, variables, anidado, modulos)
 
-![](https://i.imgur.com/vufNS77.mp4)
+
+
+
+
+# DelfOS: React JS
+
+**Practice project:**
+
+Basic/simple website that simulates a software e-commerce, the intention is to put into practice what was learned in the ReactJS course syllabus taught by Coderhouse. (Custom styles)
+
+-     **React JS** (.jsx, modularization, useState, useEffect)
+-    **React Router Dom V6** (Link, NavLink, useParams)
+-   **SASS** (Mixins, variables, nesting, modules)
